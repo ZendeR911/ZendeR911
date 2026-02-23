@@ -1,5 +1,2 @@
-## Preview
-
-![Menu Demo](attachment.gif)
-
+## Fuck EAC-AntiCheat
 ![Gameplay Demo](easyanticheat-gamer-rage.gif)
