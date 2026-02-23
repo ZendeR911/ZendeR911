@@ -1,5 +1,5 @@
 ## Fuck EAC-AntiCheat
-![Gameplay Demo](easyanticheat-gamer-rage.gif) (attachment.gif)
+![Gameplay Demo](easyanticheat-gamer-rage.gif) 
 
 ## About 
 - C++
